@@ -20,8 +20,8 @@ def get_time_stamp():
 def loginGetCode(user, password):
     r"""1、登录获取Code
 
-    :param user: 账号：邮箱/手机号
-    :param password: 密码
+    :param user: 账号：wyh10755@gmail.com
+    :param password: wyhxh10755
     :return: is_phone, location
     """
 
